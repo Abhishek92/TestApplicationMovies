@@ -55,10 +55,6 @@ object Network {
 }
 
 object ErrorCode {
-    const val ERR_UNABLE_TO_CREATE_FILE = 101
-    const val ERR_FILE_IS_NOT_CORRECT = 102
-    const val ERR_NO_SERVER_RESPONSE = 103
-    const val ERR_FILE_UPLOAD = 104
-    const val ERR_FILE_SIZE_LIMIT_EXCEEDED = 105
+   const val ERR_NO_SERVER_RESPONSE = 103
 }
 
